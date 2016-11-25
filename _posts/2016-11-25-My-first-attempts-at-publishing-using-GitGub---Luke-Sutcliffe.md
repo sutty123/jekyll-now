@@ -1,5 +1,5 @@
 ---
-title: My first attempts at publishing using GitGub - Luke Sutcliffe
+title: My first attempts at publishing using GitHub
 layout: post
 author: luke.sutcliffe
 permalink: /my-first-attempts-at-publishing-using-gitgub---luke-sutcliffe/
@@ -19,16 +19,16 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>I had no knowledge</td>
+    <td>I had no knowledge about GitHub and its structure.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To successfully create the infrastructure so that my Google Doc template would publish.</td>
+    <td>To successfully create the basic layout of my website so my Google Doc is able to publish.</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>I think so, as I followed all the instructions and seem to have done everything in the correct order.</td>
+    <td>Yes, as I was able to get my Google Doc to publish.</td>
   </tr>
 </table>
 
@@ -41,21 +41,21 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>Mainly by focused listening and watching a demonstration.</td>
+    <td>Mainly by focused listening and watching a demonstration. I followed the demonstration step-by-step and I was able to complete the task.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>The first set of instructions went well, although I managed to get confused when the program showed up a slightly different version of the information and I got distracted by menus that weren't relevant.  
+    <td>The first set of instructions went well, although I managed to get confused when I tried to add a background picture, so I will need some help with that next lesson.
 
-This made me change my ways and I decided to take quick notes (on paper) so that I could remember the instructions in the correct order next time.  This strategy helped me a lot, and the next process went really smoothly.</td>
+This made me change my ways and I decided to do some research on Google. This strategy helped me a lot, and the next process went really smoothly.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Always be ready to make notes so that I don’t forget, and I can work better independently when things go a bit wrong...</td>
+    <td>Try to search things up before I ask for help from the teacher. Also, I can try and work better independently when things go a bit wrong...</td>
   </tr>
 </table>
 
