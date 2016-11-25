@@ -18,9 +18,12 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+background: url(http://the18.com/sites/default/files/styles/feature_image_with_focal/public/feature-images/20160924-The18-Photo-Double-Dab-Pogba-1280x720.jpeg?itok=8tLC4ArA);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+font: 14px/1.4 $courier;
+color: #001a33;
 }
 
 .container {
