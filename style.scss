@@ -31,7 +31,21 @@ table{
 	margin-bottom: 15px;
 	box-shadow: 0 4px 8px 0 rgb(0, 0, 0), 0 6px 20px 0 rgb(0, 0, 0);
 }
+table, td {
+	border-radius: 3px;
+	border-collapse: collapse;
+	padding: 15px;
+	text-align: left;
+}
 
+table, th {
+	border-radius: 3px;
+	border-collapse: collapse;
+	padding: 15px;
+	background: linear-gradient(to bottom, #ffffff, #f2f2f2);
+	text-align: left;
+}
+	
 .container {
   margin: 0 auto;
   max-width: 740px;
